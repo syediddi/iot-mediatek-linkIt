@@ -19,7 +19,7 @@
 #include <LWiFiClient.h>
 #include <ArduinoJson.h>
 
-#define WIFI_AP "ETISALAT"
+#define WIFI_AP "your ap"
 #define WIFI_PASSWORD "your password"
 #define WIFI_AUTH LWIFI_WPA  // choose from LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP.
 #define SITE_URL "your local server ip" //your nodejs or azure ip address or domain name
